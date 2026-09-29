@@ -127,10 +127,10 @@ Skilled in data preprocessing, EDA, model training and evaluation, computer visi
 | Project | Description | Link |
 |---|---|---|
 | **Pediatric Bone Age Prediction (CNN + Transfer Learning)** | CNN regression with EfficientNetB0 + Grad-CAM. Improved MAE by ~57% (45 → 19.3 months). | [Repo](https://github.com/ShubhamShitoleDev/bone-age-cnn) |
-| **Real-Time Image Classification (CNN)** | MobileNetV2 + OpenCV live webcam classification with confidence scores. | [Repo](https://github.com/ShubhamShitoleDev/realtime-image-classification-cnn) |
+| **Real-Time Image Classification (CNN)** | MobileNetV2 + OpenCV live webcam classification with confidence scores. | [Repo](https://github.com/ShubhamShitoleDev/realtime-image-classification) |
 | **Real-Time Emotion Detection (CNN + OpenCV)** | Facial emotion recognition (6 categories) via Haar Cascade & DNN. | [Repo](https://github.com/ShubhamShitoleDev/emotion-detection-cnn) |
-| **Financial Time Series Forecasting (LSTM)** | LSTM stock price prediction evaluated with RMSE & MAE. | [Repo](https://github.com/ShubhamShitoleDev/financial-time-series-lstm) |
-| **Surface Crack Detection (CNN)** | Defect detection on industrial surfaces via binary classification. | [Repo](https://github.com/ShubhamShitoleDev/surface-crack-detection-cnn) |
+| **Financial Time Series Forecasting (LSTM)** | LSTM on daily returns with leakage-free chronological split; evaluated vs naive baseline (RMSE 46.48 vs 46.29) — honest negative result reported. | [Repo](https://github.com/ShubhamShitoleDev/stock_lstm_forecasting) |
+| **Surface Crack Detection (CNN)** | Defect detection on industrial surfaces via binary classification. | [Repo](https://github.com/ShubhamShitoleDev/surface_crack_detection) |
 | **Text Sentiment Analysis (RNN/LSTM)** | IMDB (50K reviews) sentiment classification; ~81% validation accuracy with gradient clipping. | [Repo](https://github.com/ShubhamShitoleDev/sentiment-lstm) |
 
 ---
