@@ -140,7 +140,7 @@ Skilled in data preprocessing, EDA, model training and evaluation, computer visi
 | Project | Description | Link |
 |---|---|---|
 | **Intelligent Document Q&A (RAG + LLMs)** | RAG system with FAISS, Sentence Transformers, Ollama/Llama3, Streamlit UI. | [Repo](https://github.com/ShubhamShitoleDev/intelligent-document-qa-rag) |
-| **Marvellous SmartHire – AI Mock Interview Agent** | LLM-powered mock interviews with automated feedback. | [Repo](https://github.com/ShubhamShitoleDev/marvellous-smarthire) |
+| **SmartHire – AI Mock Interview Agent** | LLM-powered mock interviews with automated feedback. | [Repo](https://github.com/ShubhamShitoleDev/smarthire) |
 
 ---
 
