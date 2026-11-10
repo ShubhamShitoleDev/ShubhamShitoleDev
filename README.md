@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 About Me
 
-Python Developer with practical, project-driven experience across **Machine Learning**, **Deep Learning**, **Generative AI**, and **automation**, alongside **2.5+ years** of professional software engineering experience in **C# and .NET**.
+Python Developer with practical, project-driven experience across **Machine Learning**, **Deep Learning**, **Generative AI**, and **automation**, alongside **3+ years** of professional software engineering experience in **C# and .NET**.
 
 Skilled in data preprocessing, EDA, model training and evaluation, computer vision, NLP, and building LLM-based applications using **RAG**, **FAISS**, and open-source models. Comfortable across the full ML lifecycle — from data collection and feature engineering to deployment and visualization.
 
